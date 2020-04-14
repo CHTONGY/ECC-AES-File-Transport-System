@@ -1,0 +1,8 @@
+rootProject.name = 'FileTransferSystemWithECCAndAES'
+include 'client'
+include 'server'
+include 'lib'
+include 'foo'
+include 'server-gui'
+include 'client-gui'
+
